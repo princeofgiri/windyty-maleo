@@ -2,8 +2,8 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         id          = "com.maleo.windyty"
         version     = "0.0.1"
-        height      = "700"
-        width       = "500">
+        height      = "768"
+        width       = "1280">
  
   <name short="Windyty">
     Windyty
