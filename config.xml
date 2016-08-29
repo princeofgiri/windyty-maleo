@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        id          = "com.maleo.windyty"
+        version     = "0.0.1"
+        height      = "700"
+        width       = "500">
+ 
+  <name short="Windyty">
+    Windyty
+  </name>
+
+  <description>
+	Windyty Running From Maleo
+  </description>
+
+  <author href="http://windyty.com">Windyty</author>
+
+  <icon src="pinwheel.svg"/>
+  <content src="index.html"/>
+
+  <license>
+    (c) Windyty
+  </license>
+</widget>
